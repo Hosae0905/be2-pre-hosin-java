@@ -1,4 +1,4 @@
-package NumberBaseBall;
+package numberbaseball;
 
 public class GameRole {
 
